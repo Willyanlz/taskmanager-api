@@ -1,0 +1,5 @@
+--INSERT INTO tarefas(id, nome, concluida) VALUES (6, 'Tarefa6', false);
+--INSERT INTO tarefas(id, nome, concluida) VALUES (7, 'Tarefa7', false);
+--INSERT INTO tarefas(id, nome, concluida) VALUES (8, 'Tarefa8', false);
+--INSERT INTO tarefas(id, nome, concluida) VALUES (9, 'Tarefa9', false);
+--INSERT INTO tarefas(id, nome, concluida) VALUES (10, 'Tarefa10', false);
