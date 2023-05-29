@@ -18,12 +18,5 @@ public class Tarefa {
     @Column(name = "concluida")
     private boolean concluida;
 
-//    @Override
-//    public String toString() {
-//        return "Tarefa{" +
-//                "id= " + id +
-//                ", nome= '" + nome + '\'' +
-//                ", concluida= " + concluida +
-//                '}';
-//    }
+
 }

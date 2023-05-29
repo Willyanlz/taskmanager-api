@@ -1,0 +1,9 @@
+com/persisti/gerenciadordetarefas/model/repository/TarefaRepository.class
+com/persisti/gerenciadordetarefas/configuration/CorsConfiguration.class
+com/persisti/gerenciadordetarefas/model/entity/Tarefa.class
+com/persisti/gerenciadordetarefas/dto/TarefaDTO.class
+com/persisti/gerenciadordetarefas/GerenciadordetarefasApplication.class
+com/persisti/gerenciadordetarefas/service/TarefaService.class
+com/persisti/gerenciadordetarefas/dto/TarefaDTO$TarefaDTOBuilder.class
+com/persisti/gerenciadordetarefas/configuration/SwaggerConfig.class
+com/persisti/gerenciadordetarefas/resource/TarefaController.class

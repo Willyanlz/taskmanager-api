@@ -52,6 +52,7 @@ public class TarefaController {
         tarefaService.adicionarTarefa(tarefaDto);
     }
 
+
     @PutMapping("/{id}")
     @ApiOperation("Update tarefa")
     public ResponseEntity<TarefaDTO> atualizarTarefa(@PathVariable Integer id, @RequestBody TarefaDTO tarefaDto) {

@@ -1,0 +1,8 @@
+/home/persisti/Área de Trabalho/projetoSpring/gerenciadordetarefas-api/src/main/java/com/persisti/gerenciadordetarefas/GerenciadordetarefasApplication.java
+/home/persisti/Área de Trabalho/projetoSpring/gerenciadordetarefas-api/src/main/java/com/persisti/gerenciadordetarefas/dto/TarefaDTO.java
+/home/persisti/Área de Trabalho/projetoSpring/gerenciadordetarefas-api/src/main/java/com/persisti/gerenciadordetarefas/configuration/SwaggerConfig.java
+/home/persisti/Área de Trabalho/projetoSpring/gerenciadordetarefas-api/src/main/java/com/persisti/gerenciadordetarefas/service/TarefaService.java
+/home/persisti/Área de Trabalho/projetoSpring/gerenciadordetarefas-api/src/main/java/com/persisti/gerenciadordetarefas/model/repository/TarefaRepository.java
+/home/persisti/Área de Trabalho/projetoSpring/gerenciadordetarefas-api/src/main/java/com/persisti/gerenciadordetarefas/model/entity/Tarefa.java
+/home/persisti/Área de Trabalho/projetoSpring/gerenciadordetarefas-api/src/main/java/com/persisti/gerenciadordetarefas/configuration/CorsConfiguration.java
+/home/persisti/Área de Trabalho/projetoSpring/gerenciadordetarefas-api/src/main/java/com/persisti/gerenciadordetarefas/resource/TarefaController.java
